@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+        <title>Lu Cheng</title>
+    </head>
+    <body>
+        <div><h1>Lu Cheng</h1></div>
+        <div><img src="photo.jpg"></div>
+        <div><h2>Favorite Music Artists</h2>
+            <ul>
+            <li>ladygaga</li>
+            <li>mj</li>
+            <li>britneyS</li>
+            <li>amy</li>
+            <li>vitas</li>
+        </ul></div>
+        <div><h2>Favorite Films</h2>
+        <ol>
+            <li>matrix</li>
+            <li>tyson</li>
+            <li>truman's world</li>
+            <li>mavels</li>
+            <li>disney</li>
+        </ol></div>
+        <div>
+            <a href="https://www.facebook.com/">My Profile</a>
+        </div>
+    </body>
+</html>
